@@ -2,7 +2,7 @@
 
 Ajax in wp plugin
 
-download and keep into wp-contents/plugin
+download and keep into wp-contents/plugin and activate
 
 we need 2 files
 1. java script to post data to php file
